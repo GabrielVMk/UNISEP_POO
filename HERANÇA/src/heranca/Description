@@ -1,0 +1,11 @@
+/*A herança é um principio de POO usado para ser possivel construir
+	 * uma hierarquia de classes, onde uma classe primeiramente criada(sendo chamada de superclasse ou classe base)
+	 * herda seus atributos para classes posteriormente criadas (chamadas de subclasses).
+	 * Assim evitando a reescrita de linhas inteiras da superclasse e só reutilizando-a para as demais 
+	 * 
+	 * No exemplo criado, usei a classe base Animal, tendo seus atributos: Nome e Idade, para as subclasses: Cachorro e Gato.
+	 * */
+	
+	/*Fonte Base 
+	 *em:https://www.devmedia.com.br/entendendo-e-aplicando-heranca-em-java/24544
+	 * */
